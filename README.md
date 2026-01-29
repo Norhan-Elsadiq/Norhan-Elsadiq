@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Norhan Hassan]
+# 👋 Hi, I'm Norhan Hassan
 
 I'm a **Software Engineer** passionate about building scalable, reliable, and user-focused software. I enjoy turning complex problems into clean, efficient solutions and continuously learning new technologies.
 
@@ -6,9 +6,9 @@ I'm a **Software Engineer** passionate about building scalable, reliable, and us
 
 ## 🚀 About Me
 
-* 💻 Software Engineer with a focus on **[Full stack development using Nodejs , Angular and React ]**
-* 🧠 Interested in **[Software Development as a Whole]**
-* 🌱 Currently learning **[Deep dive into the technology and science ]**
+* 💻 Software Engineer with a focus on **Full stack development using Nodejs , Angular and React**
+* 🧠 Interested in **Software Development as a Whole**
+* 🌱 Currently learning **Deep dive into the technology and science**
 
 
 ---
@@ -17,7 +17,7 @@ I'm a **Software Engineer** passionate about building scalable, reliable, and us
 
 **Languages**
 
-* [JavaScript, TypeScript,]
+* [JavaScript, TypeScript]
 
 **Frameworks & Libraries**
 
@@ -31,13 +31,6 @@ I'm a **Software Engineer** passionate about building scalable, reliable, and us
 
 * [ Docker, GitHub]
 
-
-
-## 📫 Contact Me
-
-* 📧 Email: [[your.email@example.com](mailto:your.email@example.com)]
-* 💼 LinkedIn: [[https://linkedin.com/in/yourname](https://linkedin.com/in/yourname)]
-* 🌐 Portfolio: [[https://yourwebsite.com](https://yourwebsite.com)]
 
 ---
 
