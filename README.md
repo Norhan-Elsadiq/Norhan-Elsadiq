@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/PixelByKhadija">
+  <a href="https://github.com/Norhan-Elsadiq">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Github&font=Bold%20Code&size=30&center=true&color=FF69B4&pause=2000" />
   </a>
 </p>
@@ -18,11 +18,6 @@
     <img src="https://komarev.com/ghpvc/?username=NorhanElsadiq&style=flat&color=FF69B4" height="30"/>
   </a>
 </p>
-
-
-
-
-
 
 <h2>🛠️ Top Technical Skills & Tools</h2>
 
