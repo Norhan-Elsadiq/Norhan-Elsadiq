@@ -14,8 +14,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/PixelByKhadija">
-    <img src="https://komarev.com/ghpvc/?username=NorhanHassan&style=flat&color=FF69B4" height="30"/>
+  <a href="https://github.com/Norhan-Elsadiq">
+    <img src="https://komarev.com/ghpvc/?username=NorhanElsadiq&style=flat&color=FF69B4" height="30"/>
   </a>
 </p>
 
